@@ -214,5 +214,3 @@ Blob Storage (Images) ──┘
    - CDN (CloudFront) để phân phối ảnh toàn cầu.
 3. **Firestore**:
    - Composite indexes cho các query phức tạp (VD: `[userId, timestamp]`).
-
-Bạn cần mình giải thích rõ hơn về cơ chế đồng bộ hoặc cách xử lý transaction cụ thể không? 😊
