@@ -133,4 +133,3 @@ Ví dụ với **AI Scan**:
 - **Prototype**: InVision hoặc Figma Interactive.
 - **Assets**: Dùng illustration cây cảnh từ Undraw hoặc Freepik.
 
-Bạn muốn tập trung vào flow cụ thể nào (ví dụ: luồng đăng bài cộng đồng) hoặc cần mình mô tả thêm về UI components? 😊
