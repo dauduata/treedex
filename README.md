@@ -129,6 +129,4 @@ Mình đề xuất kiến trúc **Microservices** (linh hoạt, dễ mở rộng
 
 ---
 
-### **Tóm Tắt**
-Ứng dụng cần **kiến trúc linh hoạt**, **dữ liệu chuẩn hóa**, và **tập trung vào tính năng cốt lõi** (như Pokédex). Nếu bạn có yêu cầu cụ thể hơn (ví dụ: cần xử lý ảnh real-time hay hỗ trợ offline), mình sẽ điều chỉnh kiến trúc phù hợp! 🌿
 
